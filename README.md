@@ -31,6 +31,10 @@ Data never leaves the device unless the user explicitly chooses hybrid mode.
 > **Expert-level prompt engineering framework for Suno AI (v5.5 Pro & Studio 2.0)**
 * Undocumented meta-tags and AI agent skills for professional music generation workflows.
 
+### 📺 [Sialki-Broadcast-Studio](https://github.com/SialkiLabs/Sialki-Broadcast-Studio)
+> **Professional broadcast news package creator**
+* Lower thirds, headline cards, and breaking-news straps with Gemini-assisted layout — React 19, Vite, and a tokenized broadcast-safe design system.
+
 ### 🎬 SIALKI-AI-CONSOLE *(private — in development)*
 > AI-powered agentic plugin for Adobe Premiere Pro and After Effects.
 
