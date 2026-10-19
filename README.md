@@ -1,73 +1,52 @@
 # Sialki Labs
 
-### AI research and software development. Built in Northeast India.
+### AI research. SaaS products. Software for business.
 
-Sialki Labs is a privately owned AI and SaaS technology business founded by **George AK Neihsial**. We develop our own products and work toward client-commissioned software for businesses.
+Sialki Labs is a privately owned AI and software technology business founded by **George AK Neihsial**, with operations in **Churachandpur, Manipur, India**.
 
-Our operations are based in **Churachandpur, Manipur**, with a backend operations office planned for **Guwahati, Assam**. Private limited incorporation is pending.
+We develop our own products and welcome commissioned development of websites, mobile and TV applications, AI-enabled tools, and business software. Our research focuses on problems that require field knowledge and specialist understanding before technology can address them.
 
-Our work spans websites, mobile and TV applications, AI-enabled tools, and business software. Our most focused research effort addresses a problem that software alone cannot solve: the absence of documented, community-reviewed language material for many small language communities.
+## InMyTongue: a global purpose, a local beginning.
 
-[Explore InMyTongue](https://inmytongue.org) · [Discuss a software project](mailto:george.ak@inmytongue.org?subject=B2B%20Software%20Project) · [Discuss funding or partnership](mailto:george.ak@inmytongue.org?subject=Sialki%20Labs%20Funding%20or%20Partnership)
+**InMyTongue is Sialki Labs’ language research and development initiative for underrepresented communities worldwide.** Initial work begins in Northeast India, with the intention to extend the approach to communities elsewhere through local participation and collaboration.
 
-## Before a model can learn a language, someone must do the fieldwork.
+The project focuses on extremely low-resource languages and dialects, including those spoken by communities with populations below 10,000. Population size should not determine whether a language receives serious research or useful technology.
 
-Some of the material we seek exists in handwritten notes and copies. Some remains with elders and knowledgeable speakers. It cannot be recovered by searching a larger database if it has never entered the digital record.
+## A language needs more than a recording.
 
-**InMyTongue is our community-focused language research and software project.** Its intended work combines field collection, language recovery, community review, and the development of useful digital tools.
+Vocabulary, grammar, pronunciation, and cultural meaning cannot be recovered through voice collection alone. Some knowledge survives in handwritten records. Some remains with elders. Some expressions are disappearing from everyday speech before their meaning has been documented.
 
-Our research priorities include communities with fewer than **10,000 people**, alongside communities of roughly **50,000 to 300,000**. These figures describe our intended community focus, not verified speaker counts or existing project coverage.
+InMyTongue’s intended work brings these sources together through field research, recovery, and community review.
 
-A small population should not disqualify a language from serious technical work.
+We aim to work with elders, language specialists, and literature societies to document what survives, recover what can still be recovered, and develop terminology where communities identify a need. Recovered expressions and newly agreed terms must remain distinguishable in the record.
 
-## Record what survives. Recover what is missing.
+**Initial collection is underway through physical notes and copies gathered by individuals and small teams.** This is the beginning of the research, not a completed digital language resource.
 
-Recording current speech is only part of the task. We intend to work with elders, language specialists, and literature societies to document vocabulary, grammar, pronunciation, and expressions that may no longer pass easily between generations.
+## Research that returns to everyday life.
 
-Where communities identify a need for new terminology, its development should rest with their speakers and language bodies. Recovered expressions and newly agreed terms must remain distinct in the record.
+InMyTongue is being developed to carry reviewed language resources into tools for learning, communication, access to knowledge, and creative expression.
 
-**Initial collection has begun.** A small number of individuals and teams are gathering material through physical notes and copies. Digitization and translation have not yet started.
+Its intended model combines **MIT-licensed software with a subscription-based hosted service**. The language-data collection remains separate from the software license, with ownership and permitted uses governed by contributor and community agreements.
 
-Literature societies have verbally expressed willingness to cooperate. Formal partnerships and agreements remain pending, with incorporation our next prerequisite. Verbal support is not permission to publish, train models on, or commercially license contributed material.
+Explore the initiative at **[inmytongue.org](https://inmytongue.org)**.
 
-## Fund the next stage of work already begun.
+## Software built around business requirements.
 
-Limited funding has delayed full operations. We are seeking support to sustain field collection and begin organizing, digitizing, translating, and reviewing the material.
+Sialki Labs’ commercial work extends beyond InMyTongue.
 
-The intended result is a traceable body of language resources that can support learning and InMyTongue's future technology. Potential licensing or integration with other AI providers is a longer-term commercial opportunity, subject to community agreements, demonstrated quality, and negotiated terms. No such customer or licensing relationship is claimed today.
+We welcome enquiries for SaaS products, websites, mobile applications, TV applications, workflow automation, and custom AI software. Each engagement begins with the people who will use it, the task it must accomplish, and the requirements for delivery and maintenance.
 
-We welcome conversations with:
+**Discuss a software project:**  
+[george.ak@inmytongue.org](mailto:george.ak@inmytongue.org?subject=Software%20Development%20Enquiry)
 
-- **Sponsors and donors** interested in supporting defined language-research activities through funding, equipment, or infrastructure. Support arrangements will be agreed individually; no charitable status or tax benefit is claimed.
-- **Research and community partners** interested in field methods, language review, permissions, and evaluation.
-- **Investors** interested in Sialki Labs' software business, subscription-service model, and the milestones needed to develop it.
-- **Business clients** seeking a discussion about a website, mobile or TV application, AI tool, or custom software requirement.
+## Support InMyTongue’s development.
 
-[Discuss support for the next stage](mailto:george.ak@inmytongue.org?subject=Support%20for%20Sialki%20Labs%20and%20InMyTongue)
+Field collection has begun. Funding is needed to sustain that work and begin digitization, translation, language review, and further software development.
 
-## A private business. A community-focused project.
+InMyTongue welcomes **research collaborators, technology partners, sponsors, donors, and investors** interested in advancing language research and technology for underrepresented communities.
 
-Sialki Labs is a commercial technology business, not a nonprofit or an organization-wide open-source initiative.
+Support may include funding, language expertise, equipment, computing resources, or software engineering. Contributions can address a defined part of the project, with scope, responsibilities, and permissions agreed in advance.
 
-For **InMyTongue**, our intended model separates three things:
-
-- **Software:** planned release under the MIT License.
-- **Hosted service:** subscription-based access.
-- **Language data:** a proprietary collection, subject to the ownership, permissions, and permitted uses established in contributor and community agreements. We do not claim ownership of a community's language.
-
-The MIT commitment applies to InMyTongue software. It does not automatically apply to other Sialki Labs products, client software, datasets, recordings, or third-party components.
-
-## What is available today.
-
-**[inmytongue.org](https://inmytongue.org)** is live and introduces the initiative. The product platform remains in development.
-
-**`inmytongue.si`** has been acquired as the intended product address, replacing the earlier `.ai` direction. Site development is planned after the intended incorporations. **`sialki.com`** has also been acquired; the company website is forthcoming.
-
-We will distinguish research, prototypes, and public releases as the work progresses.
-
----
-
-**Founder:** George AK Neihsial  
-**Current operations:** Churachandpur, Manipur, India  
-**Planned office:** Guwahati, Assam, India  
-**Business, research, sponsorship, and investment enquiries:** [george.ak@inmytongue.org](mailto:george.ak@inmytongue.org)
+**To discuss supporting InMyTongue:**  
+**George AK Neihsial, Founder**  
+[george.ak@inmytongue.org](mailto:george.ak@inmytongue.org?subject=InMyTongue%20Research%20and%20Development)
