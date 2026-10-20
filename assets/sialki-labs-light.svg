@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="410" viewBox="0 0 1200 410" role="img" aria-labelledby="title desc">
+<title id="title">Sialki Labs. AI research. SaaS products. Software for business.</title><desc id="desc">Sialki Labs, Churachandpur, Manipur, India. A typographic company banner with a blue modular design.</desc>
+<rect width="1200" height="410" rx="8" fill="#F9F8F7"/>
+<path d="M0 8Q0 0 8 0H1192Q1200 0 1200 8" fill="none" stroke="#D5DDE5"/>
+<g font-family="Arial,Helvetica,sans-serif">
+<rect x="48" y="45" width="8" height="17" fill="#1665B5"/><text x="69" y="60" font-size="17" font-weight="700" letter-spacing="2" fill="#566575">RESEARCH &amp; SOFTWARE DEVELOPMENT</text>
+<text x="45" y="180" font-size="101" font-weight="700" letter-spacing="-5" fill="#172230">Sialki Labs</text>
+<text x="49" y="248" font-size="33" fill="#172230">AI research. SaaS products.</text><text x="49" y="292" font-size="33" fill="#172230">Software for business.</text>
+<path d="M49 336H751" stroke="#D5DDE5"/>
+<text x="49" y="371" font-size="17" fill="#566575">CHURACHANDPUR · MANIPUR · INDIA</text>
+</g>
+<path d="M838 0H1192Q1200 0 1200 8V402Q1200 410 1192 410H838Z" fill="#E6EFF8"/>
+<g fill="none" stroke="#1665B5" stroke-width="2">
+<path d="M902 106H1136V304H902Z" opacity=".28"/><path d="M902 172H1136M902 238H1136M980 106V304M1058 106V304" opacity=".28"/>
+</g>
+<g fill="#1665B5"><path d="M902 106H980V172H902Z"/><path d="M980 172H1058V238H980Z"/><path d="M1058 238H1136V304H1058Z"/></g>
+<g fill="none" stroke="#1665B5" stroke-width="2"><path d="M892 96H912M902 86V106M1126 314H1146M1136 304V324"/></g>
+</svg>
