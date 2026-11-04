@@ -6,95 +6,93 @@
   <img alt="Sialki Labs. AI research. SaaS products. Software for business. Based in Churachandpur, Manipur, India." src="assets/sialki-labs-light.svg" width="1200">
 </picture>
 
-[InMyTongue](#inmytongue) · [Sialki OS Agent](#sialki-os-agent) · [Software development](#software-development) · [Contact](#contact)
+[InMyTongue](#inmytongue) · [Sialki OS Agent](#sialki-os-agent) · [Software development](#software-development) · [Work with us](#work-with-us)
 
-Sialki Labs develops AI software and language technology, alongside custom software for businesses. Our work covers SaaS products, websites, mobile and TV applications, workflow automation and AI integration.
+Sialki Labs develops AI products and custom business software. Our principal initiative, InMyTongue, combines research into languages with extremely limited digital resources with the development of AI conversation, web translation and cultural media.
 
-**InMyTongue is our principal long-term initiative.** It connects language research with the development of AI conversation, web translation, media creation and cultural programming. Sialki OS Agent is our separate open-source project for configuring AI workspaces and developing controlled agent workflows.
+We also maintain Sialki OS Agent, an MIT licensed project for configuring AI workspaces and developing controlled agent workflows.
 
-[Visit Sialki Labs](https://sialki.com)
+[Company website](https://sialki.com) · [Research initiative](https://inmytongue.org)
 
 ## InMyTongue
 
-InMyTongue is in research and early development. We are building a platform that will bring text and voice AI, translated web browsing, creative tools and cultural media into one service for speakers of underrepresented languages.
+InMyTongue’s mission is to build a global living repository for underrepresented languages and a shared digital platform for the communities that speak them. Its scope includes extremely low resource languages and dialects spoken by communities with fewer than 10,000 people.
 
-The research focus includes extremely low-resource languages and dialects, including those spoken by communities with populations below 10,000. Initial work focuses on Northeast India, with a wider remit to support communities internationally through local participation and collaboration.
+Research and early product development begin in Northeast India. The wider ambition is international: to document language resources, histories and cultural knowledge that are absent from, or difficult to find on, the public internet, and make them accessible through agreements with the people who hold that knowledge.
 
-### Research, recovery and language development
+The platform will give community members tools for everyday communication and creative work, while allowing visitors to explore their languages and cultures.
 
-InMyTongue’s research process will bring together written records, speaker knowledge, field research and contributed translations and recordings. Elders, language specialists and literature societies are intended collaborators in documenting vocabulary, grammar, pronunciation, tone and cultural meaning.
+### Research that informs the technology
 
-That work includes recovering expressions that are disappearing from use and developing terminology where communities identify a need. Recovered expressions and newly agreed terms must remain distinguishable in the record.
+Written records, field research, speaker knowledge, translations and recordings will form the research base. We seek collaboration with elders, language specialists and literature societies to document vocabulary, grammar, pronunciation, tone and cultural meaning.
 
-InMyTongue’s mission is to build a global living repository for extremely low-resource languages and dialects, a shared platform for underrepresented communities, and a place for visitors to explore their knowledge and cultures. We aim to document and make accessible language resources, histories and cultural material that are absent from, or difficult to find on, the public internet.
+The work includes recovering expressions that are disappearing from use and developing terminology where communities identify a need. Recovered expressions and newly agreed terms must remain distinguishable in the record.
 
-Our ambition is to compete in global AI development while delivering practical tools for communities working to sustain endangered languages. Language research will inform the technology, and the technology will help carry that knowledge into everyday communication, learning and creative work.
+Our ambition is to compete in global AI development while delivering practical tools for communities sustaining endangered languages. The research will inform language adaptation and training, with separate permissions for collection, publication, commercial reuse and model development.
 
-Collection, publication, commercial reuse and model training require separate decisions about permission. Open-source software releases do not grant access to community recordings or cultural material.
+### AI conversation and web translation
 
-### AI conversation and translated web browsing
+The chat service will combine text and voice interaction, internet search and models adapted to individual languages and dialects. Users will be able to ask questions, find information and communicate in their own languages. A general purpose mode will extend the service beyond the initial language communities.
 
-The chat interface will combine text and voice interaction, internet search and language-specific model adaptation. People will be able to ask questions, find information and communicate in their own languages. A general-purpose mode will extend the service to users beyond the initial language communities.
+A companion browser extension will translate website content within the page being viewed. Reusable extension code will be released separately from the hosted translation service, which may require a subscription.
 
-A companion browser extension will translate website content within the page being viewed. Reusable extension code will be separate from the hosted translation service, which may require a subscription. The extension’s repository will specify its release scope and license.
+### Creative tools and cultural media
 
-### Media creation, television and cultural archives
+Creators will be able to generate images from text, produce video from images and prompts, and use dubbing and subtitling for regional language content.
 
-The creative tools will support text-to-image generation, image-to-video and video generation, alongside dubbing and subtitling for regional-language content.
-
-The television and on-demand service will bring live channels and regional programming together with documentaries, oral traditions and heritage collections. Viewers will be able to explore the histories and cultural knowledge of the communities represented, within the same platform used for everyday communication and creative work.
+Live television and on-demand programming will sit alongside documentaries, oral traditions and heritage collections. This brings contemporary media and cultural records into the same service, giving audiences a way to encounter a language through both everyday use and the histories of its communities.
 
 Content acquisition, archive access and distribution will depend on agreements with contributors, creators and rights holders.
 
-### Hosted services and selected open-source components
+### Commercial services and open source
 
-The business model will combine free base access with paid AI and translation services, creator subscriptions, media access and institutional API services. Institutional services will focus on native-language communications for telecommunications providers, healthcare organisations and public agencies.
+The business model combines free base access with paid AI and translation services, creator subscriptions, media access and institutional API services. Institutional development will focus on native language communications for telecommunications providers, healthcare organisations and public agencies.
 
-We will release selected reusable software components as open source, with the scope and license stated in each repository. Hosted services, private product components and language resources will have separate access and usage terms.
+We will release selected reusable software components as open source. Each repository will identify the code covered and its license. Hosted services, private product components, recordings and cultural resources will have separate terms. A software license does not grant rights to community material.
 
-[Explore the research initiative](https://inmytongue.org) · Product development: **inmytongue.si**
+[Explore InMyTongue](https://inmytongue.org) · Product domain: **inmytongue.si**
 
 ## Sialki OS Agent
 
-**[SIALKI-OS-Agent](https://github.com/SialkiLabs/SIALKI-OS-Agent)** is an MIT-licensed project for professional AI workspaces, organised around conversation, preparation and controlled execution.
-
-The public codebase saves project settings, instructions and model-role configurations, with offline previews for exploring the setup. Further development will connect live AI models and add specialist execution and application control. These capabilities are not yet available.
+[SIALKI-OS-Agent](https://github.com/SialkiLabs/SIALKI-OS-Agent) provides a local workspace for project instructions, model assignments and specialist configuration. Its public codebase includes saved settings and offline previews. Live AI connections, specialist execution and application control are still to be built.
 
 Three modes define how the agent will work:
 
-- **REST** is direct conversation with one selected AI model.
-- **LOAD** covers research, writing, analysis, planning and learning. It may create separate deliverables, but cannot overwrite existing project assets or control applications.
-- **CHARGE** covers authorized execution across software, infrastructure and creative production. Its workflows will include review, action limits, checkpoints and verification.
+| Mode | Purpose |
+| :--- | :--- |
+| REST | Direct conversation with one selected AI model. |
+| LOAD | Research, analysis, writing, planning and learning. Separate deliverables can be created without overwriting existing project assets or controlling applications. |
+| CHARGE | Authorized execution across software, infrastructure and creative production, with action limits, review, checkpoints and verification. |
 
-Specialist planning and review will precede execution, with authorization tied to the task. Choosing a mode does not authorize external actions or spending.
+Authorization belongs to each task. Selecting a mode does not authorize external actions or spending.
 
-[Setup and current capabilities](https://github.com/SialkiLabs/SIALKI-OS-Agent#run-locally) · [Architecture and milestones](https://github.com/SialkiLabs/SIALKI-OS-Agent/blob/main/docs/PRODUCT.md) · [Contributing](https://github.com/SialkiLabs/SIALKI-OS-Agent/blob/main/CONTRIBUTING.md)
+The repository is licensed under MIT and welcomes contributions.
+
+[Setup and capabilities](https://github.com/SialkiLabs/SIALKI-OS-Agent#run-locally) · [Architecture](https://github.com/SialkiLabs/SIALKI-OS-Agent/blob/main/docs/PRODUCT.md) · [Contributing](https://github.com/SialkiLabs/SIALKI-OS-Agent/blob/main/CONTRIBUTING.md)
 
 ## Software development
 
-Sialki Labs welcomes commissioned work on SaaS products, websites, mobile and TV applications, workflow automation and custom AI software.
+Sialki Labs welcomes commissioned development of SaaS products, websites, mobile and TV applications, workflow automation and custom AI software.
 
-Project discussions establish who will use the software, the tasks it must support, the systems it must connect to and the requirements for delivery and maintenance. Development, integration, hosting and support can be scoped as separate services.
+Each project starts with its users, the work they need to complete and the systems the software must connect to. Development, integration, hosting and ongoing support can be scoped separately.
 
 [Discuss a software project](mailto:hello@sialki.com?subject=Software%20Development%20Enquiry)
 
-## Research partnerships and investment
+## Work with us
 
-InMyTongue welcomes discussions with language researchers, literature societies, community organisations, technology partners and prospective investors.
+We welcome research collaborators, technology partners, sponsors and prospective investors.
 
-Research collaboration may cover source documentation, translation, linguistic review and approved training resources. Technical partnerships may support software development, computing resources or media workflows. Funding discussions can address research operations, product development and the facilities required to carry out that work.
+Research partnerships can cover source documentation, translation, linguistic review and the preparation of approved training resources. Technical collaboration can support software development, computing resources and media workflows.
 
-Each engagement will establish the partners’ responsibilities, funding terms and permissions before work begins.
-
-[Research and partnerships](mailto:partner@sialki.com?subject=InMyTongue%20Research%20and%20Partnerships) · [Investment enquiries](mailto:invest@sialki.com?subject=Investment%20Enquiry)
-
-## Contact
+Grant and sponsorship discussions can focus on defined research activities, equipment or development work. Investment discussions can address the commercial products and facilities needed to build the business. Each engagement will establish its scope, responsibilities, funding terms and permissions.
 
 | Enquiry | Contact |
 | :--- | :--- |
 | Software development and general enquiries | [hello@sialki.com](mailto:hello@sialki.com) |
-| Research, partnerships and sponsorship | [partner@sialki.com](mailto:partner@sialki.com) |
+| Research, partnerships, grants and sponsorship | [partner@sialki.com](mailto:partner@sialki.com) |
 | Investment | [invest@sialki.com](mailto:invest@sialki.com) |
 | Founder contact | [founder@sialki.com](mailto:founder@sialki.com) |
 
-Based in **Churachandpur, Manipur, India**. Founded by **George AK Neihsial**. Company incorporation is in progress, and Sialki Labs expects to open its Guwahati office in early 2027.
+Sialki Labs is based in Churachandpur, Manipur, India. Company incorporation is in progress, and the Guwahati office is expected to open in early 2027.
+
+Founded by George AK Neihsial.
