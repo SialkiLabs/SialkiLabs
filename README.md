@@ -8,11 +8,9 @@
 
 [InMyTongue](#inmytongue) · [Sialki OS Agent](#sialki-os-agent) · [Software development](#software-development) · [Work with us](#work-with-us)
 
-Sialki Labs develops AI products and custom business software. Our principal initiative, InMyTongue, combines research into languages with extremely limited digital resources with the development of AI conversation, web translation and cultural media.
+[Sialki Labs](https://sialki.com) develops AI products and custom business software. Our principal initiative, [InMyTongue](https://inmytongue.org), combines research into languages with extremely limited digital resources with the development of AI conversation, web translation and cultural media.
 
-We also maintain Sialki OS Agent, an MIT licensed project for configuring AI workspaces and developing controlled agent workflows.
-
-[Company website](https://sialki.com) · [Research initiative](https://inmytongue.org)
+We also maintain [Sialki OS Agent](https://github.com/SialkiLabs/SIALKI-OS-Agent), an MIT licensed project for configuring AI workspaces and developing controlled agent workflows.
 
 ## InMyTongue
 
@@ -50,11 +48,9 @@ The business model combines free base access with paid AI and translation servic
 
 We will release selected reusable software components as open source. Each repository will identify the code covered and its license. Hosted services, private product components, recordings and cultural resources will have separate terms. A software license does not grant rights to community material.
 
-[Explore InMyTongue](https://inmytongue.org) · Product domain: **inmytongue.si**
-
 ## Sialki OS Agent
 
-[SIALKI-OS-Agent](https://github.com/SialkiLabs/SIALKI-OS-Agent) provides a local workspace for project instructions, model assignments and specialist configuration. Its public codebase includes saved settings and offline previews. Live AI connections, specialist execution and application control are still to be built.
+Sialki OS Agent provides a local workspace for project instructions, model assignments and specialist configuration. Its public codebase includes saved settings and offline previews. Live AI connections, specialist execution and application control are still to be built.
 
 Three modes define how the agent will work:
 
@@ -95,4 +91,4 @@ Grant and sponsorship discussions can focus on defined research activities, equi
 
 Sialki Labs is based in Churachandpur, Manipur, India. Company incorporation is in progress, and the Guwahati office is expected to open in early 2027.
 
-Founded by George AK Neihsial.
+Founded by [George AK Neihsial](https://founder.inmytongue.org).
