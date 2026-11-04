@@ -8,11 +8,13 @@
 
 [InMyTongue](#inmytongue) · [Sialki OS Agent](#sialki-os-agent) · [Software development](#software-development) · [Work with us](#work-with-us)
 
-[Sialki Labs](https://sialki.com) develops AI products and custom business software. Our principal initiative, [InMyTongue](https://inmytongue.org), combines research into languages with extremely limited digital resources with the development of AI conversation, web translation and cultural media.
+[Sialki Labs](https://sialki.com) develops AI products and custom business software. Our principal initiative, InMyTongue, combines research into languages with extremely limited digital resources with the development of AI conversation, web translation and cultural media.
 
 We also maintain [Sialki OS Agent](https://github.com/SialkiLabs/SIALKI-OS-Agent), an MIT licensed project for configuring AI workspaces and developing controlled agent workflows.
 
 ## InMyTongue
+
+InMyTongue is an initiative of the [InMyTongue.org organisation](https://inmytongue.org), with product development by Sialki Labs. The product website is being prepared at inmytongue.si.
 
 InMyTongue’s mission is to build a global living repository for underrepresented languages and a shared digital platform for the communities that speak them. Its scope includes extremely low resource languages and dialects spoken by communities with fewer than 10,000 people.
 
